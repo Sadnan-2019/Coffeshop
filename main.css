@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.pic-1 .p1 img{
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+.p2 img {
+    float: left;
+    width: 25%;
+    height: 300px;
+}
+.p3 img{
+    float: left;
+    width: 25%;
+    height: 300px;
+}
+.p4 img{
+
+    height: 30px;
+}
